@@ -128,7 +128,7 @@ $local_business_schema = json_encode([
     <meta name="twitter:image" content="<?php echo htmlspecialchars($images['abbruch'][0]); ?>">
     
     <!-- Canonical URL -->
-    <link rel="canonical" href="<?php echo htmlspecialchars($company_url); ?>">
+    <link rel="canonical" href="<?php echo htmlspecialchars($canonical_url); ?>">
     
     <!-- Indexing Link -->
     <link rel="alternate" href="<?php echo htmlspecialchars($indexing_url); ?>">
