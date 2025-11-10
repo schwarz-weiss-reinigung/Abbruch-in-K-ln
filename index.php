@@ -7,10 +7,11 @@
  */
 
 // Page Configuration
-$page_title = "Professionelles Gebäudemanagement in Köln: Abbruch, Renovierung & Sanierung – Ihr Experte vor Ort";
-$meta_description = "Erfahren Sie alles über professionelles Gebäudemanagement in Köln. Spezialisiert auf Abbruch, Renovierung & Sanierung. Nachhaltige Lösungen für Ihre Immobilie.";
+$page_title = "Gebäudemanagement Köln: Abbruch, Renovierung & Sanierung";
+$meta_description = "Professionelles Gebäudemanagement in Köln: Abbruch, Renovierung & Sanierung mit nachhaltigen Lösungen für Ihre Immobilie.";
 $company_name = "Kian Gebäudemanagement";
 $company_url = "https://kian-gm.de/koeln/";
+$canonical_url = "https://kian-gm-5573b811c647.herokuapp.com/";
 $contact_url = "https://kian-gm.de/kontakt/";
 $indexing_url = "https://kian-gm-06d4c4.gitlab.io/";
 $logo_url = "https://kian-gm.de/wp-content/uploads/2025/11/WEB-LOGO-1030x504-1-new-logo-1.png";
